@@ -1,0 +1,110 @@
+{
+  "Title": "ThongTinDangKyCom",
+  "Result": {
+    "DonVi": [
+      {
+        "ID": 65,
+        "Title": "Phòng Công nghệ thông tin"
+      },
+      {
+        "ID": 68,
+        "Title": "Phòng Đào tạo"
+      },
+      {
+        "ID": 70,
+        "Title": "Phòng Hành chính"
+      }
+    ],
+    "NhanVien": [
+      {
+        "IdPhong": 65,
+        "Users": [
+          {
+            "Key": "10020",
+            "Title": "Trưởng Phòng CNTT"
+          },
+          {
+            "Key": "10021",
+            "Title": "Phó Phòng CNTT"
+          },
+          {
+            "Key": "10022",
+            "Title": "Nhân viên CNTT 01"
+          },
+          {
+            "Key": "10023",
+            "Title": "Nhân viên CNTT 02"
+          }
+        ]
+      },
+      {
+        "IdPhong": 68,
+        "Users": [
+          {
+            "Key": "10032",
+            "Title": "Trưởng Phòng ĐT"
+          },
+          {
+            "Key": "10033",
+            "Title": "Phó Phòng ĐT"
+          },
+          {
+            "Key": "10034",
+            "Title": "Nhân viên ĐT 01"
+          },
+          {
+            "Key": "10035",
+            "Title": "Nhân viên ĐT 02"
+          }
+        ]
+      },
+      {
+        "IdPhong": 70,
+        "Users": [
+          {
+            "Key": "10004",
+            "Ten": "Trưởng Phòng HC"
+            
+          },
+          {
+            "Key": "10006",
+            "Ten": "Nhân viên HC 01"
+            
+          },
+          {
+            "Key": "10007",
+            "Ten": "Nhân viên HC 02"
+          }
+        ]
+      }
+    ],
+    "NgayDangKy": [
+      {
+        "IdPhong": 65,
+        "Value": [
+          "31/08/2020",
+          "01/09/2020"
+        ]
+      },
+      {
+        "IdPhong": 68,
+        "Value": [
+          "31/08/2020",
+          "01/09/2020"
+        ]
+      },
+      {
+        "IdPhong": 70,
+        "Value": [
+          "31/08/2020",
+          "01/09/2020"
+        ]
+      }
+    ],
+    "NgayGui": "31/08/2020"
+  },
+  "Status": {
+    "Code": 200,
+    "Desc": null
+  }
+}
