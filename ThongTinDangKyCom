@@ -63,17 +63,17 @@
         "Users": [
           {
             "Key": "10004",
-            "Ten": "Trưởng Phòng HC"
+            "Title": "Trưởng Phòng HC"
             
           },
           {
             "Key": "10006",
-            "Ten": "Nhân viên HC 01"
+            "Title": "Nhân viên HC 01"
             
           },
           {
             "Key": "10007",
-            "Ten": "Nhân viên HC 02"
+            "Title": "Nhân viên HC 02"
           }
         ]
       }
