@@ -1,6 +1,4 @@
 {
-  "Title" : "LayThongTin",
-  "Result" : {
     "Ma" : "10022",
     "Thumbnail" : "https:\/\/apidigiouat.msm.com.vn:91\/uploadv3\/ct\/nhanvien\/000022\/hinh_210920041840.jpg",
     "Email" : "nvcntt01@msm.lan",
@@ -15,9 +13,4 @@
     "PhongBan" : "Phòng Công nghệ thông tin",
     "ItemId" : 437,
     "DTDD" : "0909912303"
-  },
-  "Status" : {
-    "Code" : 200,
-    "Desc" : null
-  }
 }
