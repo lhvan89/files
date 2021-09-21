@@ -1,0 +1,23 @@
+{
+  "Title" : "LayThongTin",
+  "Result" : {
+    "Ma" : "10022",
+    "Thumbnail" : "https:\/\/apidigiouat.msm.com.vn:91\/uploadv3\/ct\/nhanvien\/000022\/hinh_210920041840.jpg",
+    "Email" : "nvcntt01@msm.lan",
+    "HoTen" : "Nhân viên CNTT 01",
+    "ID" : 954,
+    "CongTy" : "Công ty ITM",
+    "ChucDanh" : "Chuyên viên phát triển ứng dụng",
+    "ChucVu" : "Nhân viên",
+    "NgayVaoLam" : "01\/01\/2020",
+    "Ext" : "1132",
+    "QuanLy" : "Trưởng Phòng CNTT",
+    "PhongBan" : "Phòng Công nghệ thông tin",
+    "ItemId" : 437,
+    "DTDD" : "0909912303"
+  },
+  "Status" : {
+    "Code" : 200,
+    "Desc" : null
+  }
+}
