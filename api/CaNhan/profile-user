@@ -1,0 +1,15 @@
+{
+   "title":"Thông tin người dùng",
+   "result":{
+      "fullName":"administrator",
+      "email":"admin@contoso.com",
+      "congTy":"CÔNG TY CỔ PHẦN MÍA ĐƯỜNG THÀNH THÀNH CÔNG TÂY NINH",
+      "phongBan":"Phòng kỹ thuật",
+      "avatar":"https://1sl-inter.ttcsugar.com.vn/assets/media/img/logo123.png",
+      "phone":"0989898989"
+   },
+   "status":{
+      "statusCode":200,
+      "message":""
+   }
+}
