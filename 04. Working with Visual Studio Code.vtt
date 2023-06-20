@@ -1,0 +1,289 @@
+WEBVTT
+
+1
+00:00:00.002 --> 00:00:02.001
+- [Instructor] When you're working on a React project
+
+2
+00:00:02.001 --> 00:00:04.000
+it's a good idea to have some sort
+
+3
+00:00:04.000 --> 00:00:05.006
+of place to write your code.
+
+4
+00:00:05.006 --> 00:00:06.009
+One of the tools we can use
+
+5
+00:00:06.009 --> 00:00:09.005
+to write code is Visual Studio Code,
+
+6
+00:00:09.005 --> 00:00:11.005
+so, this is totally free.
+
+7
+00:00:11.005 --> 00:00:14.000
+If you don't have this installed already
+
+8
+00:00:14.000 --> 00:00:16.000
+it's one I would recommend,
+
+9
+00:00:16.000 --> 00:00:18.005
+you can always download it from the website,
+
+10
+00:00:18.005 --> 00:00:21.009
+if you're using a PC it will prompt you
+
+11
+00:00:21.009 --> 00:00:23.006
+to download it for a PC.
+
+12
+00:00:23.006 --> 00:00:25.009
+If you're using a Mac, you can download it here.
+
+13
+00:00:25.009 --> 00:00:29.000
+So, we're going to go through the steps of installing VS Code,
+
+14
+00:00:29.000 --> 00:00:33.004
+it'll download this to a zip folder.
+
+15
+00:00:33.004 --> 00:00:35.002
+Nice, so once that's downloaded
+
+16
+00:00:35.002 --> 00:00:38.001
+we can click on it to expand the zip,
+
+17
+00:00:38.001 --> 00:00:42.001
+then we're going to see this here in our downloads folder
+
+18
+00:00:42.001 --> 00:00:44.006
+and we can go ahead and open it up.
+
+19
+00:00:44.006 --> 00:00:45.006
+Once you open this,
+
+20
+00:00:45.006 --> 00:00:48.007
+you're going to be able to open up your exercise files here,
+
+21
+00:00:48.007 --> 00:00:50.004
+so again, you have access
+
+22
+00:00:50.004 --> 00:00:53.001
+to the exercise files from this class.
+
+23
+00:00:53.001 --> 00:00:56.002
+One of the easiest ways of getting started I feel like,
+
+24
+00:00:56.002 --> 00:00:59.007
+is to drag your exercise files folder
+
+25
+00:00:59.007 --> 00:01:02.003
+over the Visual Studio Code editor
+
+26
+00:01:02.003 --> 00:01:04.000
+and then you're going to have access
+
+27
+00:01:04.000 --> 00:01:06.005
+to all of them here, which is pretty cool.
+
+28
+00:01:06.005 --> 00:01:08.006
+Another thing to do once you install VS Code
+
+29
+00:01:08.006 --> 00:01:11.001
+for the first time is to go up here
+
+30
+00:01:11.001 --> 00:01:15.001
+to the code menu, check preferences,
+
+31
+00:01:15.001 --> 00:01:18.000
+and one of the things that people always ask me
+
+32
+00:01:18.000 --> 00:01:20.009
+about my code editor
+
+33
+00:01:20.009 --> 00:01:23.002
+is it's the most important thing, right?
+
+34
+00:01:23.002 --> 00:01:25.009
+What does your, what color theme are you using?
+
+35
+00:01:25.009 --> 00:01:28.001
+So, you can find different color themes
+
+36
+00:01:28.001 --> 00:01:31.006
+if you go to preferences and then you select color theme,
+
+37
+00:01:31.006 --> 00:01:35.003
+here you see a whole list of them that you can choose from,
+
+38
+00:01:35.003 --> 00:01:39.002
+so whatever feels right to you, you can pick.
+
+39
+00:01:39.002 --> 00:01:43.001
+The one I'll be using for this class is called Night Owl
+
+40
+00:01:43.001 --> 00:01:46.001
+and if you don't already have Night Owl installed
+
+41
+00:01:46.001 --> 00:01:51.001
+you can go to preferences, you can go then to extensions
+
+42
+00:01:51.001 --> 00:01:55.005
+and then you can search for Night Owl in your extensions,
+
+43
+00:01:55.005 --> 00:01:57.002
+and then you can click install.
+
+44
+00:01:57.002 --> 00:01:59.009
+Obviously, if you prefer to use a different theme
+
+45
+00:01:59.009 --> 00:02:02.002
+or a different code editor entirely,
+
+46
+00:02:02.002 --> 00:02:05.006
+that's totally great and I encourage you to do so.
+
+47
+00:02:05.006 --> 00:02:08.007
+Another thing I want to point out is if you go
+
+48
+00:02:08.007 --> 00:02:15.001
+to your browser and you type react.new into that new tab
+
+49
+00:02:15.001 --> 00:02:17.003
+react.new will give you a CodeSandbox
+
+50
+00:02:17.003 --> 00:02:18.001
+that you can work with.
+
+51
+00:02:18.001 --> 00:02:19.006
+So, think of CodeSandbox
+
+52
+00:02:19.006 --> 00:02:22.003
+as being like VS Code in the browser,
+
+53
+00:02:22.003 --> 00:02:25.006
+you can use it for free, develop your own apps,
+
+54
+00:02:25.006 --> 00:02:27.008
+notice that you need to sign in.
+
+55
+00:02:27.008 --> 00:02:30.003
+So, you would sign in either with your GitHub account
+
+56
+00:02:30.003 --> 00:02:32.004
+or with your Google account, but once you do that
+
+57
+00:02:32.004 --> 00:02:33.006
+you're going to have everything
+
+58
+00:02:33.006 --> 00:02:35.006
+you need to get started on a project.
+
+59
+00:02:35.006 --> 00:02:38.002
+So, don't feel like you have to run
+
+60
+00:02:38.002 --> 00:02:40.001
+anything locally using VS Code,
+
+61
+00:02:40.001 --> 00:02:43.003
+you can always go to react.new in the browser,
+
+62
+00:02:43.003 --> 00:02:46.003
+fire up a CodeSandbox and get started that way.
+
+63
+00:02:46.003 --> 00:02:48.009
+And then there are other tools for this type of thing, too.
+
+64
+00:02:48.009 --> 00:02:50.006
+If you want to check out CodePen,
+
+65
+00:02:50.006 --> 00:02:52.005
+this is a really nice one as well.
+
+66
+00:02:52.005 --> 00:02:55.001
+CodePen allows you to build, test,
+
+67
+00:02:55.001 --> 00:02:58.003
+and discover front end code as their tagline suggests.
+
+68
+00:02:58.003 --> 00:02:59.007
+There's also an app called Glitch
+
+69
+00:02:59.007 --> 00:03:01.000
+which I would recommend too.
+
+70
+00:03:01.000 --> 00:03:03.005
+So, lots of different ways to get started,
+
+71
+00:03:03.005 --> 00:03:05.008
+but the important part is that we have some sort
+
+72
+00:03:05.008 --> 00:03:09.001
+of location where we can write this front end code.
